@@ -33,7 +33,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
-
+<a href="https://github.com/lucasparila/prompts-podcast-gerado-por-ia/tree/main/output" title="View PDF now"> 📕Clique aqui para escutar</a>
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
